@@ -1,0 +1,8 @@
+addi 4, 0, 10
+add 3, 0, 4
+addi 2, 0, 1
+beq 4, 2, 16
+subi 9, 4, 1
+mul 3, 9, 3
+subi 4, 4, 1
+br -20

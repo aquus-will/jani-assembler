@@ -1,0 +1,16 @@
+movi 9, -30
+addi 10, 9, 27
+add 11, 9, 10
+stwio 11, 100, 15
+movi 14, 3
+movi 15, 1
+and 16, 14, 15
+andhi 17, 14, 2
+andi 18, 14, 2
+div 2, 9, 10
+divu 3, 14, 15
+movia 4, 32415
+muli 5, 2, 25511
+mul 6, 5, 5
+mul 7, 6, 6
+muli 8, 3, -25050

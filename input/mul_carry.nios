@@ -1,0 +1,11 @@
+movi 10, 7
+movi 11, 8
+mul 12, 10, 11
+mulxuu 13, 10, 11
+cmpne 13, 13, 0
+movi 10, 27777
+movi 11, 28888
+mul 15, 10, 11
+mul 16, 15, 15
+mulxuu 14, 15, 15
+cmpne 14, 14, 0

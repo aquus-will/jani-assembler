@@ -1,0 +1,17 @@
+addi 6, 0, -13
+add 3, 0, 6
+addi 6, 0, 6
+add 4, 0, 6
+addi 6, 0, 0
+add 5, 0, 6
+add 6, 0, 3
+add 7, 0, 4
+cmplt 6, 6, 7
+addi 7, 0, 1
+beq 6, 7, 4
+add 6, 0, 3
+add 5, 0, 6
+br -32
+add 6, 0, 4
+add 5, 0, 6
+br 4

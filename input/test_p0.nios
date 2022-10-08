@@ -1,0 +1,8 @@
+bret
+eret
+trap
+addi 13, 14, 976
+flushp
+nop
+ret
+sync

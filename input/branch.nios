@@ -1,0 +1,14 @@
+movi 5, 0
+movi 3, 1
+movi 2, 0
+orhi 2, 2, 64
+br 12
+addi 10, 10, 1
+addi 11, 11, 2
+addi 12, 12, 3
+addi 13, 13, 4
+addi 14, 14, 5
+addi 15, 15, 6
+add 5, 5, 3
+bltu 5, 2, -36
+mov 20, 5

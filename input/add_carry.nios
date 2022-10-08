@@ -1,0 +1,18 @@
+nop
+movi 3, 7
+movi 4, 8
+add 5, 3, 4
+xor 6, 5, 3
+xor 7, 5, 4
+and 8, 6, 7
+nop
+nop
+nop
+movi 10, 32767
+orhi 11, 10, 32767
+mov 10, 11
+add 15, 10, 11
+xor 16, 15, 10
+xor 17, 15, 11
+and 18, 16, 17
+nop
